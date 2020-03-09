@@ -22,3 +22,5 @@ json
 你需要创建包含图片的书面文档，并且把这些文档导出为 PDF 文件。这个任务可以在 Jupyter Notebook 中进行，但是最好使用文字处理软件，如免费软件 Google Docs 或 Microsoft Word。
 
 **同时，你可以直接打开wrangle_act.ipynb 通过源代码直接了解数据整理的过程**
+
+若加载该文件失败，可以访问这个网站：https://nbviewer.jupyter.org/ ，把github上对应的文件的url输进去，就可以在线渲染jupyter文件了。
